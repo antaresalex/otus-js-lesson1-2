@@ -2,8 +2,8 @@ Update
 ======
 
 _________
-##Clone of the repository as the OTUS JavaScript Basic course 06/21 homework
-________
+## Clone of the repository as the OTUS JavaScript Basic course 06/21 homework
+________ 
 
 JavaScript Koans is an interactive learning environment that uses failing tests to introduce students to aspects of JavaScript in a logical sequence. 
 
